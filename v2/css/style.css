@@ -101,8 +101,8 @@ h1, h2, h3, h4, h5, h6, figure {
   left: 0;
   right: 0;
 /* CONTINUE EDIT */
-  background-image: linear-gradient(to bottom right, #FD746C,#FF9068)
-  /* background: rgba(255, 144, 0, 0.9); */
+  background-image: linear-gradient(to bottom right, #f46b45,#eea849)
+
 }
 #fh5co-header .display-t,
 .fh5co-cover .display-t {
