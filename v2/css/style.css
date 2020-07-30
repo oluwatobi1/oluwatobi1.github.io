@@ -101,7 +101,7 @@ h1, h2, h3, h4, h5, h6, figure {
   left: 0;
   right: 0;
 /* CONTINUE EDIT */
-  background-image: linear-gradient(to bottom right, #f46b45,#eea849)
+  background-image: linear-gradient(to bottom right, #f46b45,#eea849);
 
 }
 #fh5co-header .display-t,
@@ -309,8 +309,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .fh5co-bg-dark {
-  background: #2F3C4F;
-  background: #FF9000;
+  background-image: linear-gradient(to bottom right, #34e89e, #0f3443);
 }
 .fh5co-bg-dark .fh5co-heading h2 {
   color: #fff !important;
