@@ -101,7 +101,7 @@ h1, h2, h3, h4, h5, h6, figure {
   left: 0;
   right: 0;
 /* CONTINUE EDIT */
-  background-image: linear-gradient(to bottom right, #f46b45,#eea849);
+  background-image: linear-gradient(to bottom right, #c5d5db,#9fa8a3);
 
 }
 #fh5co-header .display-t,
@@ -328,7 +328,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .info li {
   width: 100%;
-  float: left;
+  float: lekft;
   list-style: none;
   padding: 10px 0;
 }
